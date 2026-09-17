@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ai-definition",
+    "query": "人工智能的定义、核心技术、主要应用和未来趋势"
+  },
+  {
+    "id": "react-vs-plan",
+    "query": "比较 ReAct 与 Plan-and-Solve 两种 Agent 范式的差异和适用场景"
+  },
+  {
+    "id": "rag-evaluation",
+    "query": "RAG 系统常用的评估指标有哪些，各自解决什么问题"
+  },
+  {
+    "id": "agent-memory",
+    "query": "AI Agent 的短期记忆和长期记忆通常如何设计与落地"
+  },
+  {
+    "id": "tool-calling",
+    "query": "大模型 Function Calling 的常见失败模式和工程治理方案"
+  },
+  {
+    "id": "multi-agent",
+    "query": "多 Agent 系统相比单 Agent 的优势、成本和主要失败模式"
+  },
+  {
+    "id": "browser-agent",
+    "query": "浏览器自动化 Agent 的元素定位、状态恢复和任务评测方法"
+  },
+  {
+    "id": "agent-observability",
+    "query": "AI Agent 可观测性应该记录哪些指标和 Trace 信息"
+  },
+  {
+    "id": "prompt-injection",
+    "query": "Agent 场景下 Prompt Injection 的常见攻击方式与防御策略"
+  },
+  {
+    "id": "agent-cost",
+    "query": "如何优化 AI Agent 的 Token 成本、延迟和工具调用成功率"
+  }
+]
